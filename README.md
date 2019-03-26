@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hschafer/java-2-python/blob/master/JavaToPython.ipynb/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hschafer/java-2-python/master?filepath=JavaToPython.ipynb)
 
 # Java-2-Python
 
