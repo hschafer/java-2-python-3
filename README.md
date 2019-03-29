@@ -1,6 +1,7 @@
 Click this badge to read the mini book in an interactive editor so you can run the code:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hschafer/java-2-python-3/master?filepath=JavaToPython.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hschafer/java-2-python-3/blob/master/JavaToPython.ipynb)
 
 # Java-2-Python-3
 
